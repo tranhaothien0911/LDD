@@ -1,0 +1,1 @@
+cmd_/home/asus/ThucHanh/Lab2/Ex3/a/print1_n.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/asus/ThucHanh/Lab2/Ex3/a/print1_n.ko /home/asus/ThucHanh/Lab2/Ex3/a/print1_n.o /home/asus/ThucHanh/Lab2/Ex3/a/print1_n.mod.o;  true

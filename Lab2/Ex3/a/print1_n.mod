@@ -1,0 +1,2 @@
+/home/asus/ThucHanh/Lab2/Ex3/a/print1_n.o
+

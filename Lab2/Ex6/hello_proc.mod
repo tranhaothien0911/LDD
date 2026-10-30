@@ -1,0 +1,2 @@
+/home/asus/ThucHanh/Lab2/Ex6/hello_proc.o
+

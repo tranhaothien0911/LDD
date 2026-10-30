@@ -1,0 +1,1 @@
+cmd_/home/asus/ThucHanh/Lab2/Ex1/hello.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/asus/ThucHanh/Lab2/Ex1/hello.ko /home/asus/ThucHanh/Lab2/Ex1/hello.o /home/asus/ThucHanh/Lab2/Ex1/hello.mod.o;  true

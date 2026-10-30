@@ -1,0 +1,1 @@
+cmd_/home/asus/ThucHanh/Lab2/Ex8/Consumer/Module.symvers := sed 's/\.ko$$/\.o/' /home/asus/ThucHanh/Lab2/Ex8/Consumer/modules.order | scripts/mod/modpost    -o /home/asus/ThucHanh/Lab2/Ex8/Consumer/Module.symvers -e -i Module.symvers -i /home/asus/ThucHanh/Lab2/Ex8/Provider/Module.symvers   -T -
